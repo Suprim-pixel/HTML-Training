@@ -1,0 +1,8 @@
+table,th,td,tr {
+    border-collapse: collapse;
+    border:1px solid black ;
+}
+.tablestyle {
+    height: 100%;
+    width:100%;
+}
